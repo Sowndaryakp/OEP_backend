@@ -19,7 +19,7 @@ public class BackendApplication {
 
 //	@EventListener(ApplicationReadyEvent.class)
 //	public void triggerMail() throws MessagingException {
-//		senderService.sendSimpleEmail("sonalshetty.1999@gmail.com",
+//		senderService.sendSimpleEmail("toemail@gmail.com",
 //				"SMTP message",
 //				"Successfully send message");
 //
